@@ -1,0 +1,7 @@
+django
+psycopg2-binary
+pillow
+djangorestframework
+python-telegram-bot
+python-decouple
+pythonanywhere
